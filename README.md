@@ -1,7 +1,6 @@
 # Statistical Physics - SAT-Solver
 University Exam of Statistical Physics UNIFI, Implementation of a SAT Solver to demonstrate a critical region.
 
-A project report in Italian is available here: https://www.overleaf.com/read/qcpqptpgcrqr#e26ea0
 
 # First experiment: Satisfiability
 
