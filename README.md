@@ -1,5 +1,5 @@
 # Statistical Physics - SAT-Solver
-University Exam of Statistical Physics UNIFI, Implementation of a SAT Solver to demonstrate a critical region.
+University Exam of Statistical Physics UNIFI, Implementation of a SAT Solver to demonstrate a critical region, done in collaboration with Jay Senoner and Mirko Bicchierai.
 
 
 # First experiment: Satisfiability
